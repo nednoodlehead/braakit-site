@@ -1,6 +1,0 @@
----
-title: "Hello"
-date: 2022-11-15T11:22:25-08:00
----
-Hello people !!
-

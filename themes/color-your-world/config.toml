@@ -1,3 +1,22 @@
-[module.hugoVersion]
-  extended = true
-  min = "0.73.0"
+title = "nut punch bruh"
+[menu]
+	[[menu.main]]
+	identifier = "about"
+	name = "About"
+	title = "About"
+	"url" = "/"
+	weight = 100
+	[[menu.main]]
+	identifier = "Services"
+	name = "Services We Offer"
+	title = "Services"
+	url = "/services/"
+	weight = 110
+	[[menu.main]]
+	identifier = "Contact"
+	name = "Contact"
+	title = "Contact"
+	url = "/contact/"
+	weight = 120
+	
+	
