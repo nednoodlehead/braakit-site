@@ -1,3 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Braak Information Technologies'
+# this stupid 'theme' bit is completely required for this to run D:
+theme = "color-your-world" 
