@@ -1,4 +1,4 @@
-baseURL = 'http://braakit.ca/'
-languageCode = 'en-us'
-title = 'Braak Information Technologies'
-theme = 'color-your-world'
+baseURL = "http://braakit.ca/"
+languageCode = "en-us"
+title = "Braak Information Technologies"
+theme = "color-your-world"
