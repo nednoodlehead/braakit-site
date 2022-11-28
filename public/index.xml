@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Braak Information Technologies</title>
+    <link>http://example.org/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Nov 2022 16:43:49 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Contact</title>
+        <link>http://example.org/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/contact/</guid>
+        <description>If you want to inquire about any of our services, whether this be for commercial, personal purposes or if you are interested in joining the team, as we may be hiring soon; Please send an email to me at spencerbraak@gmail.com.
+Questions? No need to worry, We do not charge for consulting, or answering any questions you have for us.</description>
+      </item>
+    
+      <item>
+        <title>Services</title>
+        <link>http://example.org/services/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/services/</guid>
+        <description>For Businesses: We do We do not Server administration Fix or repair Macs Custom software development Create or fix dynamic websites Switching and routing Troubleshoot financial systems (e.g. payment tablets) Software and hardware troubleshooting Fix mobile devices General systems administration Provide hosting services Documentation for all services Digital media related services Consulting For Individuals: We do We do not Solve hardware &amp;amp; software problems Fix or repair Macs or mobile devices such as tablets (Free) consulting Troubleshoot IOT solutions (e.</description>
+      </item>
+    
+  </channel>
+</rss>
