@@ -1,5 +1,4 @@
 baseURL = 'http://braakit.ca/'
 languageCode = 'en-us'
 title = 'Braak Information Technologies'
-# this stupid 'theme' bit is completely required for this to run D:
-theme = "color-your-world" 
+theme = 'color-your-world'
