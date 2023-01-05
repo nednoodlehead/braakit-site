@@ -5,4 +5,4 @@ theme = "color-your-world"
 [params.style]
   isDark = true
   # 4a86e8
-  presets = ["#4a86e8", "#C42B2B", "#545454"]
+  presets = ["#4a86e8", "#C42B2B", "#545454", "#c063bd"]
