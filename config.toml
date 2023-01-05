@@ -2,3 +2,7 @@ baseURL = "http://www.braakit.ca/"
 languageCode = "en-us"
 title = "Braak Information Technologies"
 theme = "color-your-world"
+[params.style]
+  isDark = true
+  # 4a86e8
+  presets = ["4a86e8"]
