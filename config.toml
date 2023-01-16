@@ -2,6 +2,7 @@ baseURL = "http://www.braakit.ca/"
 languageCode = "en-us"
 title = "Braak Information Technologies"
 theme = "color-your-world"
+Description = "IT services for people and businesses for an affordable cost."
 [params.style]
   isDark = true
   # 4a86e8
