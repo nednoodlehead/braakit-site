@@ -4,6 +4,7 @@ title = "Braak Information Technologies"
 theme = "color-your-world"
 Description = "IT services and computer support for people and businesses for an affordable cost in the Powell River and qathet region. Free consultation available for business"
 [params.style]
+  darkAccent   = "#4a86e8"
   isDark = true
   # 4a86e8
   presets = ["#4a86e8", "#C42B2B", "#545454", "#c063bd"]
