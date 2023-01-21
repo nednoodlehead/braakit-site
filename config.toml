@@ -2,7 +2,7 @@ baseURL = "http://www.braakit.ca/"
 languageCode = "en-us"
 title = "Braak Information Technologies"
 theme = "color-your-world"
-Description = "IT services for people and businesses for an affordable cost in the Powell River and qathet region."
+Description = "IT services for people and businesses for an affordable cost in the Powell River and qathet region. Free consultation available for business and individuals."
 [params.style]
   isDark = true
   # 4a86e8
