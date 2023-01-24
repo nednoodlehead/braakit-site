@@ -21,5 +21,5 @@ draft: false
 | We do                            | We do not                                                                                      |
 |----------------------------------|------------------------------------------------------------------------------------------------|
 | Solve hardware & software problems | Fix or repair Macs or mobile devices such as tablets                                           |
-| (Free) consulting                | Troubleshoot IOT solutions (e.g. smart fridges. who would bring that to a tech place anyways?) |
+| (Free) consulting                | Troubleshoot IOT devices (e.g. smart fridges. who would bring that to a tech place anyways?) |
 
