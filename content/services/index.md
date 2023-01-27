@@ -12,7 +12,7 @@ draft: false
 | Switching and routing                 | Troubleshoot financial systems (e.g. payment tablets) |
 | Software and hardware troubleshooting | Fix mobile devices                                    |
 | General systems administration        | Provide hosting services                              |
-| Documentation for all services        |                                                       |
+| Documentation for all services        | Provide backup services (We can help you with cloud backups though!)      |
 | Digital media related services        |   
 | Consulting                            |
 
