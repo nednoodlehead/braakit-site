@@ -20,3 +20,7 @@ Our key services include:
 - Fixing computers
 
 For a better list, please look [here](services/)
+
+# Where do you operate?
+
+We do IT support for the Powell River area only. The exception is remote work that does not require on-site presence. This may change eventually however, as we expand our area of service.
