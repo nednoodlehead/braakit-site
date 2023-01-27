@@ -9,3 +9,13 @@ opportunities arose.
 We aim to serve our community that is underserviced for this industry.
 
 We are committed to bringing a wide range of high-quality services to our clients for a competitive price.
+
+## Key Services
+Our key services include:
+- IT Support
+- IT Support for businesses
+- Server administration
+- Custom software development (Python & Rust)
+- (Free) Consulting
+- Fixing computers
+For a better list, please look (here)[/services]
