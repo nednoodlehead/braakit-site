@@ -19,4 +19,4 @@ Our key services include:
 - (Free) Consulting
 - Fixing computers
 
-For a better list, please look [here](www.braakit.ca/services/)
+For a better list, please look [here](services/)
