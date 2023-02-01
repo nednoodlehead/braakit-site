@@ -9,10 +9,10 @@ draft: false
 |---------------------------------------|-------------------------------------------------------|
 | Server administration                 | Fix or repair Macs                                    |
 | Custom software development           | Create or fix dynamic websites                        |
-| Switching and routing                 | Troubleshoot financial systems (e.g. payment tablets) |
-| Software and hardware troubleshooting | Fix mobile devices                                    |
-| General systems administration        | Provide hosting services                              |
-| Documentation for all services        | Provide backup services (We can help you with cloud backups though!)      |
+| Switching and routing                 |  Fix mobile devices    |
+| Software and hardware troubleshooting |    Provide hosting services                                 |
+| General systems administration        | Provide backup services (We can help you with cloud backups though!)                              |
+| Documentation for all services        | |
 | Digital media related services        |   
 | Consulting                            |
 
